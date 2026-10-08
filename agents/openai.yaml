@@ -1,0 +1,13 @@
+name: juqingzhenren-skill
+version: 0.1.0
+description: 地区平台真人剧情广告完整SOP
+author: local
+allow_implicit_invocation: true
+short_description: 真人剧情广告完整交付SOP
+tags:
+  - advertising
+  - short-video
+  - localization
+  - ai-video
+  - word-doc
+
